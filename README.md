@@ -76,15 +76,29 @@
 
 ## DNS Over [Telegram](https://t.me/dns_tgbot)
 
+
 ### [Bot](https://t.me/dns_tgbot)
 
-![Screen Shot 2020-05-20 at 7 45 51 PM](https://user-images.githubusercontent.com/787301/82442646-a3321700-9ad2-11ea-8e88-6840637e5d94.png)
+![Screen Shot 2020-09-14 at 2 59 40 PM](https://user-images.githubusercontent.com/787301/93053879-0ad02b80-f69b-11ea-9199-b7551568373c.png)
 
-### Query
+### Help
 
-![Screen Shot 2020-05-21 at 7 33 44 PM](https://user-images.githubusercontent.com/787301/82555536-89f49d80-9b9a-11ea-92f6-4ad5e9b64132.png)
+![Screen Shot 2020-09-14 at 2 52 30 PM](https://user-images.githubusercontent.com/787301/93053134-f50e3680-f699-11ea-9907-8f7691799f12.png)
 
-### Answer
+### Query Domain
 
-![Screen Shot 2020-05-21 at 7 33 58 PM](https://user-images.githubusercontent.com/787301/82555431-54e84b00-9b9a-11ea-839b-55a7fd5e8ed5.png)
+![Screen Shot 2020-09-14 at 2 55 49 PM](https://user-images.githubusercontent.com/787301/93053472-6cdc6100-f69a-11ea-8003-af96ffeee258.png)
+
+### Answer Domain
+
+![Screen Shot 2020-09-14 at 2 56 02 PM](https://user-images.githubusercontent.com/787301/93053504-78c82300-f69a-11ea-97ee-47a5d0122b31.png)
+
+### Reverse DNS lookup
+
+![Screen Shot 2020-09-14 at 3 06 16 PM](https://user-images.githubusercontent.com/787301/93054531-0c4e2380-f69c-11ea-93aa-74e7b5b1242c.png)
+
+### Answer for Reverse DNS lookup
+
+![Screen Shot 2020-09-14 at 3 06 29 PM](https://user-images.githubusercontent.com/787301/93054579-1b34d600-f69c-11ea-8a13-47ba5375c54d.png)
+
 
